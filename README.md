@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nour</h1>
+<h1 align="center">Hi 👋, My name is Nour</h1>
 <h3 align="center">A Machine Learning Maestro in the Making!</h3>
 <img align="right" alt="coding" width="360" src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif">
 
