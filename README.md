@@ -37,6 +37,10 @@
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 <hr>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nour-bensaid&show_icons=true&locale=en" alt="nour-bensaid" /></p>
+<h3 align="left">Github Stats</h3>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nour-bensaid&" alt="nour-bensaid" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nour-bensaid&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="nour-bensaid" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nour-bensaid&theme=dark&hide_border=false" alt="nour-bensaid" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nour-bensaid&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="nour-bensaid" /></p>
