@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, My name is Nour</h1>
 <h3 align="center">A Machine Learning Maestro in the Making!</h3>
-<img align="right" alt="coding" width="340" src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif">
+<img align="right" alt="coding" width="240" src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nour-bensaid&label=Profile%20views&color=0e75b6&style=flat" alt="nour-bensaid" /> </p>
 
