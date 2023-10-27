@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nour-bensaid&label=Profile%20views&color=0e75b6&style=flat" alt="nour-bensaid" /> </p>
 
-- 🔭 I’m an **Advanced Technologies Engineering Student** & **ML Enthusiast**
+- 🔭 I’m an **Advanced Technologies Engineering Student** with strong focus on **data science**
 
-- 👯 I’m currently looking for a **part-time job**
+- 👯 I’m currently looking for an **End of Study Internship**
 
 - 📫 How to reach me **nour.bensaid@enstab.ucar.tn**
 
